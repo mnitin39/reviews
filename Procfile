@@ -1,1 +1,1 @@
-python-2.7.16
+worker: python app.py
