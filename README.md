@@ -1,9 +1,7 @@
-# Amazon Review API using Flask & Selectorli
+# Review API
 
-## Usage
-
-Go into the project folder 
-
+# Usage
+Steps
 1. Install requirements `pip install -r requirements.txt`
 2. Set FLASK_APP - `export FLASK_APP=app.py`
 3. Run App - `flask run`
